@@ -92,10 +92,7 @@ public class Games implements Comparable<Games>{
 		this.price = price;
 	}
 	
-	
-	
-	
-	
+
 	
 	
 
